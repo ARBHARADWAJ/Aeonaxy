@@ -109,6 +109,7 @@ npm start
   - `token`: JWT token for authorization
 - **Returns:** List of enrolled courses.
 
+
 ## Code Snippet
 
 ```javascript
@@ -119,5 +120,6 @@ app.post("/login", async (req, res) => {
 });
 
 // More route handlers...
+```
 ## Here is the deployed api link
 [https://csproject14assignment.onrender.com](https://csproject14assignment.onrender.com)
